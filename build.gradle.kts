@@ -3,6 +3,6 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath("net.openhft:chronicle-network:2.24ea3")
+        classpath("net.openhft:chronicle-network:2.24ea5")
     }
 }
